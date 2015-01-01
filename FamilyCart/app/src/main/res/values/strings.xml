@@ -10,5 +10,6 @@
     <string name="PasswordText">Password:</string>
     <string name="LogInButton">Log In</string>
     <string name="RegisterButton">Register</string>
+    <string name="defaultEmailText">something@email.com</string>
 
 </resources>
